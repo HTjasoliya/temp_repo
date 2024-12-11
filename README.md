@@ -1,3 +1,3 @@
 this is my first project 
 
-Author - Himanshu Jasoliya(niqox11)
+Author - Himanshu Jasoliya(niqox)
